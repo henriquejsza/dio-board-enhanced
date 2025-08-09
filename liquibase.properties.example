@@ -1,0 +1,19 @@
+# Liquibase Configuration Example
+# Copy this file to liquibase.properties and update with your database credentials
+
+# Database connection settings
+url=jdbc:mysql://localhost:3306/board_db
+username=board_user
+password=board_pass
+driver=com.mysql.cj.jdbc.Driver
+
+# Liquibase settings
+changeLogFile=src/main/resources/db/changelog/db.changelog-master.yml
+outputDefaultSchema=false
+outputDefaultCatalog=false
+
+# Logging
+logLevel=INFO
+
+# Performance
+liquibase.duplicateFileMode=WARN
