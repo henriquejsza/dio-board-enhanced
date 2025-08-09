@@ -167,8 +167,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Henrique** 
 - GitHub: [@henriquejsza](https://github.com/henriquejsza)
-- LinkedIn: [Henrique](https://linkedin.com/in/henriquejsza)
-- Email: henrique.dev@email.com
+- Email: henriquejsza@gmail.com
 
 ---
 
